@@ -1,0 +1,21 @@
+Input file: C:\Users\arouse01\Box Sync\Finch Work\Stimuli\Clayton\Base components\y8p78_2017_02_09_0014_s1.wav	Stim Type: irreg	Input length: 3295 samples	Target IOI: 0.1490 s	Actual Avg IOI: 0.14900 s (6571.06250 samp)
+Interval StdDev: 0.05085 s (2242.43753 samp)	Max deviation: 0.0500 s	Min std dev: 0.0100 s
+Gap Noise: C:\Users\arouse01\Box Sync\Finch Work\Stimuli\Clayton\Base components\dc_b83.20121107_0136_n.wav
+
+Interval (samp)	Interval (s)	Start Time (s)
+        8327	0.18882086	0.18882086
+        4656	0.10557823	0.29439909
+        4664	0.10575964	0.40015873
+        5249	0.11902494	0.51918367
+        9103	0.20641723	0.72560091
+        3393	0.07693878	0.80253968
+        4850	0.10997732	0.91251701
+        9000	0.20408163	1.11659864
+        8243	0.18691610	1.30351474
+        6637	0.15049887	1.45401361
+        8778	0.19904762	1.65306122
+        8852	0.20072562	1.85378685
+        6028	0.13668934	1.99047619
+        4385	0.09943311	2.08990930
+        9645	0.21870748	2.30861678
+        3327	0.07544218	2.38405896

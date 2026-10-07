@@ -1,0 +1,17 @@
+Input file: /Users/xutianle/Desktop/Stimuli/Andrew_Raw_Sounds/BF Sound 4.wav	Stim Type: ir	Input length: 1657 samples
+Target IOI: 0.2180 s	Actual Avg IOI: 0.21800 s (9613.90909 samp)
+Interval StdDev: 0.07644 s (3370.88417 samp)	Max deviation: 0.0500 s	Min std dev: 0.01000 s
+Gap Noise:
+
+Interval (samp)	Interval (s)	Start Time (s)
+       10262	0.23269841	0.23269841
+        7825	0.17743764	0.41013605
+        4452	0.10095238	0.51108844
+        9430	0.21383220	0.72492063
+        5666	0.12848073	0.85340136
+       13662	0.30979592	1.16319728
+       12863	0.29167800	1.45487528
+       15298	0.34689342	1.80176871
+        7067	0.16024943	1.96201814
+       10615	0.24070295	2.20272109
+        8613	0.19530612	2.39802721

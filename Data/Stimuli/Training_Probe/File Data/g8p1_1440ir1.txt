@@ -1,0 +1,22 @@
+Input file: D:\Rouse\Box\Finch Work\Stimuli\Bengalese\Raw Elements\b8p1.wav	Stim Type: irreg	Input length: 2928 samples	Target IOI: 0.1440 s	Actual Avg IOI: 0.14399 s (6350.05882 samp)
+Interval StdDev: 0.04329 s (1909.15212 samp)	Max deviation: 0.0500 s	Min std dev: 0.0100 s
+Gap Noise: D:\Rouse\Box\Finch Work\Stimuli\Bengalese\Raw Elements\b8_n.wav
+
+Interval (samp)	Interval (s)	Start Time (s)	Skipped?
+        4187	0.09494331	0.09494331	0
+        5451	0.12360544	0.21854875	0
+        8553	0.19394558	0.41249433	0
+        3149	0.07140590	0.48390023	0
+        5837	0.13235828	0.61625850	0
+        4654	0.10553288	0.72179138	0
+        7605	0.17244898	0.89424036	0
+        6949	0.15757370	1.05181406	0
+        8755	0.19852608	1.25034014	0
+        5213	0.11820862	1.36854875	0
+        7659	0.17367347	1.54222222	0
+        9529	0.21607710	1.75829932	0
+        3406	0.07723356	1.83553288	0
+        7438	0.16866213	2.00419501	0
+        6947	0.15752834	2.16172336	0
+        7642	0.17328798	2.33501134	0
+        4977	0.11285714	2.44786848	0

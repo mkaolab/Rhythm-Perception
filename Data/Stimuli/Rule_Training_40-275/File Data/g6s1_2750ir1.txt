@@ -1,0 +1,12 @@
+Input file: /Users/xutianle/Desktop/Stimuli/Song_gen_analysis_rule/b6s1.wav	Stim Type: irreg	Input length: 1657 samples	Target IOI: 0.2750 s	Actual Avg IOI: 0.27501 s (12127.88889 samp)
+Interval StdDev: 0.18035 s (7953.31905 samp)	Max deviation: 0.0500 s	Min std dev: 0.0100 s
+Interval (samp)	Interval (s)	Start Time (s)	Skipped?
+        3429	0.07775510	0.07775510	0
+       10852	0.24607710	0.32383220	0
+        2742	0.06217687	0.38600907	0
+        4628	0.10494331	0.49095238	0
+       21049	0.47730159	0.96825397	0
+       17372	0.39392290	1.36217687	0
+        7307	0.16569161	1.52786848	0
+       20310	0.46054422	1.98841270	0
+       21462	0.48666667	2.47507937	0

@@ -1,0 +1,14 @@
+Input file: C:\Users\arouse01\Box\Finch Work\Stimuli\Base components\y8p78_2017_02_09_0014_s1.wav	Stim Type: reg	Input length: 3295 samples	Target IOI: 0.2750 s	Actual Avg IOI: 0.27501 s (12128.00000 samp)
+Interval StdDev: 0.00000 s (0.00000 samp)	Max deviation: 0.0500 s	Min std dev: 0.0100 s
+Gap Noise: C:\Users\arouse01\Box\Finch Work\Stimuli\Base components\y8p78_2017_02_09_0014_n.wav
+
+Interval (samp)	Interval (s)	Start Time (s)
+       12128	0.27501134	0.27501134
+       12128	0.27501134	0.55002268
+       12128	0.27501134	0.82503401
+       12128	0.27501134	1.10004535
+       12128	0.27501134	1.37505669
+       12128	0.27501134	1.65006803
+       12128	0.27501134	1.92507937
+       12128	0.27501134	2.20009070
+       12128	0.27501134	2.47510204
